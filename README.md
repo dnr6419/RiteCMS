@@ -1,0 +1,2 @@
+# RiteCMS
+Installation on Docker
